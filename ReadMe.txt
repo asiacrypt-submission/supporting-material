@@ -1,6 +1,6 @@
 The supporting material consists of
 
-		1. CODE_Algorithm_1_2: The implementation of Algorithm 1 and Algorithm 2;
+		1. CODE_Algorithm_1_2.zip: The implementation of Algorithm 1 and Algorithm 2;
 
 		2. AES-Sbox-f_1-S_4-f_2.txt: f_1, S_4 and f_2 of AES S-box;
 
